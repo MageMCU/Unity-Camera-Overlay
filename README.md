@@ -10,21 +10,17 @@
 2. Unity-Camera-Overlay
 	- Learn camera stacking, overlay behavior, and scene view composition.
 	- Focus on understanding how visual layers are combined in play mode.
-3. Unity-Joystick-GUI
-	- Learn joystick-style input and GUI-driven control flow.
-	- Focus on translating player input into object movement and feedback.
-4. Robot-6
-	- Combine architecture, camera control, and input into one larger system.
+3. Unity Joystick Robot Simulation *(Unity Asset Store — coming soon)*
+	- Combine architecture, camera control, joystick input, and differential drive robot simulation into one complete system.
 	- Expect higher difficulty: more integration, more moving parts, and more debugging.
+	- Purchasing this asset directly supports the ongoing open-source work at MageMCU and [Carpenter Software](https://carpentersoftware.com).
 
-## Why This Order Helps Robot-6
+## Why This Order Helps the Robot Simulation
 - Step 1 builds code structure habits.
 - Step 2 builds camera and scene composition understanding.
-- Step 3 builds input and control confidence.
-- Step 4 (Robot-6) becomes an integration exercise instead of a cold start.
+- Step 3 becomes an integration exercise instead of a cold start.
 
 ## Use This Project
-- Download and import CameraOverlay-001.unitypackage for the quickest use.
 - The Source folder is included as readable reference and is sufficient for review.
 
 ## Main Content
