@@ -23,7 +23,7 @@
 ## Use This Project
 
 ### Option 1 — Unity Package (Recommended)
-1. Download [CameraOverlay-001.unitypackage](https://github.com/MageMCU/Unity-Camera-Overlay/blob/main/CameraOverlay-001.unitypackage) from the root of this repo.
+1. Download ```CameraOverlay-001.unitypackage``` from the root of this repo.
 2. Open your project in the Unity Editor.
 3. From the menu bar, select **Assets → Import Package → Custom Package…**
 4. Navigate to the downloaded `CameraOverlay-001.unitypackage` file and click **Open**.
