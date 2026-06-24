@@ -21,7 +21,17 @@
 - Step 3 becomes an integration exercise instead of a cold start.
 
 ## Use This Project
-- The Source folder is included as readable reference and is sufficient for review.
+
+### Option 1 — Unity Package (Recommended)
+1. Download [CameraOverlay-001.unitypackage](https://github.com/MageMCU/Unity-Camera-Overlay/blob/main/CameraOverlay-001.unitypackage) from the root of this repo.
+2. Open your project in the Unity Editor.
+3. From the menu bar, select **Assets → Import Package → Custom Package…**
+4. Navigate to the downloaded `CameraOverlay-001.unitypackage` file and click **Open**.
+5. In the Import Unity Package dialog, leave all items checked and click **Import**.
+6. The package contents will appear in your project's Assets folder, ready to use.
+
+### Option 2 — Source Reference
+- The Source folder is included as readable reference and is sufficient for review without importing the package.
 
 ## Main Content
 - Source/JoystickGraph.cs
